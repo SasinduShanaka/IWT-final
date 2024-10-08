@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     color: #333;
     margin: 20px;
-    background-color: #f0f4f8;
+    background-color:#ebebeb98;  
     
 }
 
@@ -33,12 +33,16 @@ h3{
 
 /*Image Styles*/
 .img {
-    width: auto; 
-    max-width: 80%;
-    height: auto; 
-    margin: 20px auto; 
+    /* width: auto;  */
+    max-width: 100%;
+    /* height: auto;  */
+    aspect-ratio: 16/4;
+    background-size:contain;
+    background-position:top;
+    background-repeat: no-repeat; 
+    /* margin: 20px auto; 
     border-radius: 8px;
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); */
     display: block;  
     
 }
@@ -47,9 +51,9 @@ h3{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
-    background: linear-gradient(135deg, #30748f, #6e93f3);
-    padding: 20px;
+    /* height: auto; */
+    background:  #ebebeb98;  
+    /* padding: 20px; */
     border-radius: 8px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);  
 }
@@ -61,7 +65,7 @@ h3{
     font-size: 18px;
     color: #010a17;  
     line-height: 1.8;
-    background-color: white;
+    background-color: #ebebeb98;  
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);  
@@ -80,8 +84,8 @@ h3{
 
 /* Grid Items */
 .grid-item-1, .grid-item-2 {
-    background-color: rgba(245, 248, 250, 0.862);
-    border: 1px solid #ddd;
+    background-color: #ebebeb98;  
+    border: 1px solid #ebebeb98;  
     padding: 30px;
     border-radius: 8px;
     text-align: center;

@@ -15,7 +15,7 @@
 <li class="menu"><a href="update_package.php">Manage Packages</a></li>
 <li class="menu"><a href="">Manage Claims</a></li>
 <li class="menu"><a href="managefeedbacks.php">Review Feedbacks</a></li>
-<li class="menu"><a href="managecontactus.php">Manage Inquiries</a></li>
+<li class="menu"><a href="managecontactus.php">Manage Messages</a></li>
 <li class="menu"><a href="managenews.php"> Manage News</a></li>
 <li class="menu"><a href="manage_admins.php">Manage Admins</a></li>
 <li class="menu"><a href="manage_policy.php">Manage Policies</a></li>

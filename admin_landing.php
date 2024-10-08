@@ -14,7 +14,8 @@
     <!-- The text that will fade in -->
     <div class="fade-in-text" id="fadeText">
     <h1>Welcome to Admin Dashboard</h1>
-    <p><?php echo $_SESSION['username'];?></p>
+    <p><?php echo 'Hello' . ' ' . $_SESSION['username']; ?></p>
+
   
 
 <a href="admin_dashboard.php">

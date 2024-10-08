@@ -7,6 +7,11 @@
 
 }
 
+img {
+    width: 290px;
+  
+}
+
 .container h1 {
     font-family: poppins;
     font-size: 40px;
@@ -14,6 +19,7 @@
     color:#03496c;
     text-align: center;
     height: auto;
+    padding: 18px;
 }
 
 body
@@ -49,12 +55,17 @@ input[type="password"]
 {
     width: 100%;
     padding: 10px;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 14px;
 }
+
+input[type="password"]{
+    margin-bottom: 40px;
+}
+
 
  input::placeholder
 {
@@ -113,7 +124,7 @@ input[type="password"]
 
 .btn:hover 
 {
-    background-color: rgb(0, 135, 159);
+    background-color: rgb(0, 163, 208); 
 }
 
 

@@ -45,7 +45,7 @@ session_start();
 
         <!--image-->
         <div class="image-container">
-            <img src="images/1.jpg" alt="life insurance" class="img">
+            <img src="images/pack2.png" alt="life insurance" class="img">
         </div>
 
         <!--Paragraph section-->

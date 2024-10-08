@@ -7,7 +7,7 @@
 
   font-family: poppins;
   font-size: 40px;
-  font-weight: 500;
+
   color: #03496c;
 }
 
@@ -15,20 +15,38 @@ body,
 input,
 textarea {
   font-family: "Poppins";
+
+  /* padding-top: 100px; */
 }
+#us {
+  padding-top: 150px;
+  text-align: center;
+  color: #03496c;
+  margin-bottom: 10px;
+
+  font-weight: 500;
+  font-size: 2rem; 
+
+    color: #03496c; 
+    text-align: center;
+ 
+
+    
+}
+
+
 .container {
   width: 100%;
   min-height: 100vh;
   padding: 2rem;
   background-color: #fafafa;
-  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
-  
+  flex-direction: column;
 }
 .form {
-  margin-top: 100px;
+  margin-top: 80px;
   margin-bottom: 50px;
   width: 100%;
   max-width: 1000px;

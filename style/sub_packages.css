@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #e9f0f7;
+    font-family: poppins;
+    background-color: #ebebeb98;  
     padding-top: 100px;
     font-weight: 500;
 }
@@ -39,7 +39,7 @@ h2{
     /* display: grid;
    width: 700px;
     gap: 20px; /* Gap between cards */
-    margin-top: 80px; */
+    margin-top: 80px; 
 }
 
 .products {

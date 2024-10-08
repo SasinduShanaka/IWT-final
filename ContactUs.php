@@ -58,14 +58,17 @@ mysqli_close($connection);
 
   </head>
   <body>
-  <p>We are here at your service</p>
+ 
 
     <div class="container">
-   
+    <div id="us"><h1>Contact Us</h1>
+ 
+  </div>
+
       <div class="form">
         <div class="contact-info">
 
-          <h3 class="title">Let's stay in touch</h3>
+          
   
           <div class="info">
 

@@ -23,6 +23,12 @@
 
 <body>
 <!--image slider -->
+
+
+<?php
+echo ' <script src="./js/home.js"></script>"></script>';
+?>
+
  <section class="container"> 
     <div class="slider-wrapper">
         <div class="slider">
@@ -45,7 +51,14 @@
 
 <section class="products">
         <h2 class="headings">Our Products</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit... Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem vitae accusantium sint explicabo quia aspernatur, sunt in perferendis! Saepe atque ea cumque laborum, nemo vero in expedita omnis doloremque necessitatibus tenetur quasi. Perspiciatis iure minima qui ea esse quod tenetur non libero suscipit recusandae, quibusdam repellendus hic sed consequatur eius, animi vitae dignissimos laudantium temporibus numquam, nam autem totam? Asperiores vel deserunt exercitationem assumenda quidem repudiandae? Sint voluptatibus nulla nesciunt, odit sunt officiis ullam illum.</p>
+        <p>Lifeguard Assurance offers a range of tailored life insurance solutions designed to protect what matters most to you and your family. Our products provide comprehensive coverage, financial security, and peace of mind, ensuring you’re prepared for life’s uncertainties. Whether you’re looking for term insurance, whole life plans, or retirement solutions, our easy-to-understand policies are crafted to meet your specific needs. Trust Lifeguard Assurance to safeguard your future with flexible, reliable insurance options.
+
+
+
+
+
+
+</p>
         <div class="card-container">
             <div class="card"  >
                 <div class="card-content" >

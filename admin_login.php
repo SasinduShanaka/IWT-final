@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="container">
-
+        <img src="./images/logo_.png" alt="">
         <h1>Admin Login</h1>
 
    <form action="admin_inc.php" method="post">
